@@ -1,4 +1,4 @@
-### Hi there 👋
+### We Build, anything and everything. Code is humanities greatest tool to build a future we never could have imagined. We use it as intended, lets build something cool.
 
 <!--
 **CascadiaTech/CasCadiaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
