@@ -1,7 +1,7 @@
 ### We Build, anything and everything. Code is humanities greatest tool to build a future we never could have imagined. We use it as intended, lets build something cool.
 
 - 🔭 I’m currently working on ...
-- RuneStone Custo NFT collection
+- RuneStone Custom NFT collection
 - rexprotocol.com Exchange MVP
 - apemotorcycleclub.com NFT collection and Dapp
 - Marsereum DAO contract and token contract
