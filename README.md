@@ -19,4 +19,3 @@ Anything that doesnt bore me, and the team. We despise boredom.
 - telegram @cryptoconner
 - twitter @cryptoconner95
 - reddit @nopinionsjstdoubts
-- 😄 Pronouns: We are legion, we are many.
