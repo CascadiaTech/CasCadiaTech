@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning ...
 - Deep Reinforcement learning algorithms for predictive analysis on finanical data
+- Web3 Game development using Unity vroom vroom ;)
 - 
 - 👯 I’m looking to collaborate on ...
 Anything that doesnt bore me, and the team. We despise boredom.
