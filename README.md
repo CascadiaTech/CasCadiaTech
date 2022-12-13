@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 - Ginu Dex, and Givewell Inu NFT Collection
-- District82 Animted Dapp
+- District82 Animated Dapp
 - RuneStone Custom NFT collection - Done, go check out the repository! 
 - rexprotocol.com Exchange MVP
 - apemotorcycleclub.com NFT collection and Dapp
