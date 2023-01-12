@@ -5,7 +5,6 @@
 - District82 Animated Dapp
 - RuneStone Custom NFT collection - Done, go check out the repository! 
 - rexprotocol.com Exchange MVP
-- apemotorcycleclub.com NFT collection and Dapp
 - Marsereum DAO contract and token contract
 
 - 🌱 I’m currently learning ...
