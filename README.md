@@ -1,5 +1,7 @@
 ### We Build, anything and everything. Code is humanities greatest tool to build a future we never could have imagined. We use it as intended, lets build something cool.
 
+To those that are on this repository I have many past projects public, the only one that is really cool that I cant show you is rexprotocol.com due to the whole sensistive information thing, but I leave them public so that anyone looking to learn what I do can use my code to learn and make projects themselves :) goodluck traveler.
+
 - 🔭 I’m currently working on ...
 - Ginu Dex aggregator
 - District82 Animated Dapp - Done go check out the repository
