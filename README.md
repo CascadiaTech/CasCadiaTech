@@ -3,12 +3,9 @@
 To those that are on this repository I have many past projects public, the only one that is really cool that I cant show you is rexprotocol.com due to the whole sensistive information thing, but I leave them public so that anyone looking to learn what I do can use my code to learn and make projects themselves :) goodluck traveler. Our skillsets include: Nexjs, React, the MERN stack, solidity, python, and a little bit of C#
 
 - 🔭 I’m currently working on ...
-- Cosmic Odyssey
-- Ginu Dex aggregator - Done, go check out the repository! 
-- District82 Animated Dapp - Done, go check out the repository
-- RuneStone Custom NFT collection - Done, go check out the repository! 
+- Cosmic Odyssey a web3 game studio
 - rexprotocol.com Exchange MVP (private Repository)
-- Marsereum DAO contract and token contract
+
 
 - 🌱 I’m currently learning ...
 - Deep Reinforcement learning algorithms for predictive analysis on finanical data, also I guess a chat bot now cause I want to talk to my cpu. 
