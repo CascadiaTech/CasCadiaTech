@@ -2,9 +2,7 @@
 
 Hello fellow digital traveler
 - 🔭 I’m currently working on ...
-- Linq - Decentalized Liquidity
-- Linq
-
+- Linq - Decentralized Liquidity
 
 - 🌱 I’m currently learning ...
 - Deep Reinforcement learning algorithms for predictive analysis on finanical data, also I guess a chat bot now cause I want to talk to my cpu. 
