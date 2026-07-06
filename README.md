@@ -1,7 +1,9 @@
 
-an internet pilgrum focused on the intersection of **cryptography, AI systems, and privacy-preserving infrastructure**.
+a digital explorer focused on the intersection of **cryptography, AI systems, and privacy-preserving infrastructure**.
 
 My work explores how emerging technologies can be designed to **scale intelligence while protecting data ownership and trust**.
+
+check out my open source repo's for some of my work on automation, and cryptography
 
 ---
 
